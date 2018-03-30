@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="surface_width">700dp</dimen>
+    <dimen name="surface_height">400dp</dimen>
+    <dimen name="ract_height">2dp</dimen>
+    <dimen name="line_width">18dp</dimen>
+    <dimen name="radius">5dp</dimen>
+
+</resources>
